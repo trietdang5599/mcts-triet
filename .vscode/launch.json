@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run uct_language_alignment",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/examples/uct_language_alignment.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "python": "${workspaceFolder}/.venv/bin/python"
+        }
+    ]
+}

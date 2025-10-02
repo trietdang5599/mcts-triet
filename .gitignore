@@ -1,0 +1,17 @@
+__pycache__
+local
+outdated
+log
+*.egg-info
+*.pyomo.lp
+dyna_gym/agents/test.py
+.idea/
+
+examples/uct_nativecartpole.py
+nsmdp-algorithms
+nsmdp_algorithms
+.venv/
+.venv310/
+tree-*
+outputs
+=0.21.0
